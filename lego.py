@@ -34,3 +34,5 @@ print('Descrição do objeto - ',description.text,'\n')
 
 # more paragraphs is needed
 
+archive = open("output/obj.txt","a")
+archive.write(f"Titulo - {titulo.text}\n\nImagem - {image}\n\nDescrição - {description.text}")
