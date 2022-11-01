@@ -10,8 +10,6 @@ response = requests.get(url)
 
 print('\nlink do objeto - ',url)
 
-# https://www.onekitprojects.com/51515/cat
-
 content = response.content
 
 site = BeautifulSoup(content, 'html.parser')
