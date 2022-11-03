@@ -4,7 +4,7 @@ web scraping de objetos educacionais do site https://www.onekitprojects.com que 
 
 execute e cole um link do código de um objeto do site onekitprojects.com
 
-o programa deverá lhe informar as informações de nome , foto, descrição e link do tutorial de montagem em pdf do objeto
+o programa deverá lhe informar as informações de nome , foto, descrição e link do tutorial de montagem em pdf do objeto no terminal e criar um arquivo *obj.txt* na pasta output
 
 <img src="assets/spider-example.png" alt="teste de scraping com um lego aranha"></img>
 
