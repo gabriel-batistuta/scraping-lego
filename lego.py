@@ -24,8 +24,7 @@ image_section = site.find('div', attrs={'id': 'comp-l17yovxi1'})
 
 # imagem do objeto
 image = image_section.find('img', attrs={'class': 'gallery-item-visible gallery-item gallery-item-preloaded'})
-image = image.get('src')
-print('imagem do objeto - ',image,'\n')
+print('imagem do objeto - ',image.src,'\n')
 
 description_section = site.find('div', attrs={'id': 'comp-l17yovxm'})
 
