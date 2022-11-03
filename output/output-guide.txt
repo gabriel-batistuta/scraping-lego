@@ -1,0 +1,1 @@
+the registered objects are inserted in this folder, when executed, change the name of the 'obj.txt' file to that of the downloaded object so as not to interfere in the next download of object information
